@@ -1,0 +1,19 @@
+{
+  "name": "fastify-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "node": "^20.5.0",
+    "nodemon": "^3.0.1"
+  }
+}
